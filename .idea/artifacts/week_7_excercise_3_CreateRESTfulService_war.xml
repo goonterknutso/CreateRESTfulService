@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="week-7-excercise-3-CreateRESTfulService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tmpArtifactId.war">
+      <element id="artifact" artifact-name="week-7-excercise-3-CreateRESTfulService:war exploded" />
+    </root>
+  </artifact>
+</component>
